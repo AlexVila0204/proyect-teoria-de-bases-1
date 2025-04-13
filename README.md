@@ -3,6 +3,10 @@
 ## Descripción
 Este proyecto es un sistema de gestión desarrollado en Java que permite administrar usuarios, productos y realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre una base de datos Access.
 
+## Desarrolladores
+- [Wilmer Zuniga](https://github.com/wilzuniga)
+- [Kevin Banegas](https://github.com/KevinBanegasUNITEC)
+
 ## Características Principales
 - Gestión de usuarios (creación, modificación, eliminación y listado)
 - Interfaz gráfica intuitiva desarrollada con Java Swing
@@ -61,4 +65,6 @@ src/
 Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
 
 ## Contacto
-Para cualquier consulta o sugerencia, por favor contactar a los desarrolladores del proyecto. 
+Para cualquier consulta o sugerencia, por favor contactar a los desarrolladores del proyecto:
+- Wilmer Zuniga: [GitHub](https://github.com/wilzuniga)
+- Kevin Banegas: [GitHub](https://github.com/KevinBanegasUNITEC) 
