@@ -3,7 +3,7 @@
 ## Descripción
 Este proyecto es un sistema de gestión desarrollado en Java que permite administrar usuarios, productos y realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre una base de datos Access.
 
-## Desarrolladores
+## Colaboradores
 - [Wilmer Zuniga](https://github.com/wilzuniga)
 - [Kevin Banegas](https://github.com/KevinBanegasUNITEC)
 
